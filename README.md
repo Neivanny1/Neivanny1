@@ -1,11 +1,12 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsimplecoding.dev%2Fassets%2Fdevops.gif&f=1&nofb=1&ipt=5b6d2625a334d7b7a12686bfa606dc36bcd71080139c35191b2adf68f1cc124f&ipo=images)](https://rishavchanda.io)
 ### <h1 align="center">Hi 👋, I'm Eric Mwakazi</h1>
 <h3 align="center">A passionate DeveOps Engineer and Data Analysis</h3>
-- 🌱 I’m currently learning **Python for data analysis and Data Visualization Tools**
 
-- 💬 Ask me about **Python, JavaScript**<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="neivanny1" width="400">
+###  - 🌱 I’m currently learning **Python for data analysis and Data Visualization Tools**
 
-- 📫 How to reach me **nevileneivanny@gmail.com** <br>
+### - 💬 Ask me about **Python, JavaScript**<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="neivanny1" width="400">
+
+### - 📫 How to reach me **nevileneivanny@gmail.com** <br>
 
 ### Connect With Me:
 [![Twitter: NeivannyN ](https://img.shields.io/twitter/follow/NeivannyN?style=for-the-badge&color=black)](https://twitter.com/NeivannyN)
@@ -40,11 +41,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue)
 
 ### Security Tools
-[![Parrot OS](https://img.shields.io/badge/-Parrot-000000?style=for-the-badge&logo=parrot-os&logoColor=%23f59e0b)](https://www.parrotlinux.org/)
-[![Kali Linux](https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=%23df0030)](https://www.kali.org/)
+[![Parrot OS](https://img.shields.io/badge/-Parrot-000000?style=for-the-badge&logo=parrot-os&logoColor=%23f59e0b&color=lightred)](https://www.parrotlinux.org/)
+[![Kali Linux](https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=%23df0030&color=purple)](https://www.kali.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=%23fe811a)](https://www.nmap.org/)
-[![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=%234285f4)](https://wireshark.org/)
-[![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burp-suite&logoColor=%23FF0000)](https://portswigger.net/burp/)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=%234285f4&color=blue)](https://wireshark.org/)
+[![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burp-suite&logoColor=%23FF0000&color=orange)](https://portswigger.net/burp/)
 ### Visualisation
 [![Chart.js](https://img.shields.io/badge/chartjs-%23000000.svg?style=for-the-badge&logo=chartjs&logoColor=%234285F4)](https://chartjs.org/)
 [![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=%2392A1CF)](https://seaborn.pydata.org/)
