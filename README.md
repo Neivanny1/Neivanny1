@@ -5,18 +5,12 @@
 
 - 💬 Ask me about **Python, JavaScript**<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="neivanny1" width="400">
 
-- 📫 How to reach me **nevileneivanny@gmail.com**
+- 📫 How to reach me **nevileneivanny@gmail.com** <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eric mwakazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric mwakazi" height="30" width="40" /></a>
-<a href="https://medium.com/@nevileneivanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nevileneivanny" height="30" width="40" /></a>
-</p>
-
-
-
-
-
+### Connect With Me:
+[![Twitter: NeivannyN ](https://img.shields.io/twitter/follow/NeivannyN?style=for-the-badge&color=black)](https://twitter.com/NeivannyN)
+[![Linkedin: Mwakazi](https://img.shields.io/badge/-Eric-blue?style=for-the-badge&logo=Linkedin&Color=black&link=[https://www.linkedin.com/in/Eric](https://www.linkedin.com/in/eric-mwakazi-650b70270)/)]([https://www.linkedin.com/in/eric](https://www.linkedin.com/in/eric-mwakazi-650b70270)/)
+[![GitHub Neivanny1 ](https://img.shields.io/github/followers/neivanny1?label=follow&style=for-the-badge&color=black)](https://github.com/neivanny1)
 ### Languages 💻 🌐
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -39,9 +33,24 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&color=black)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=black)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=FCC624&color=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue)
+
+### Security Tools
+[![Parrot OS](https://img.shields.io/badge/-Parrot-000000?style=for-the-badge&logo=parrot-os&logoColor=%23f59e0b)](https://www.parrotlinux.org/)
+[![Kali Linux](https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=%23df0030)](https://www.kali.org/)
+[![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=%23fe811a)](https://www.nmap.org/)
+[![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=%234285f4)](https://wireshark.org/)
+[![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burp-suite&logoColor=%23FF0000)](https://portswigger.net/burp/)
+### Visualisation
+[![Chart.js](https://img.shields.io/badge/chartjs-%23000000.svg?style=for-the-badge&logo=chartjs&logoColor=%234285F4)](https://chartjs.org/)
+[![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=%2392A1CF)](https://seaborn.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=%23DF0030)](https://matplotlib.org/)
+[![Excel](https://img.shields.io/badge/excel-%23000000.svg?style=for-the-badge&logo=excel&logoColor=%23217346)](https://products.office.com/en-us/excel)
+[![Power BI](https://img.shields.io/badge/powerbi-%23000000.svg?style=for-the-badge&logo=powerbi&logoColor=%23006D75)](https://powerbi.microsoft.com/)
 
 ### Stats
 
