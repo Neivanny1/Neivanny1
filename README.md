@@ -53,14 +53,63 @@
 [![Excel](https://img.shields.io/badge/excel-%23000000.svg?style=for-the-badge&logo=excel&logoColor=%23217346)](https://products.office.com/en-us/excel)
 [![Power BI](https://img.shields.io/badge/powerbi-%23000000.svg?style=for-the-badge&logo=powerbi&logoColor=%23006D75)](https://powerbi.microsoft.com/)
 
+<div class="container">
+
+    <h1 class="heading">our services</h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="image/icon-1.png" alt="">
+            <h3>HTML 5</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
+            <a href="#" class="btn">read more</a>
+        </div>
+
+        <div class="box">
+            <img src="image/icon-2.png" alt="">
+            <h3>CSS 3</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
+            <a href="#" class="btn">read more</a>
+        </div>
+
+        <div class="box">
+            <img src="image/icon-3.png" alt="">
+            <h3>JavaScript</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
+            <a href="#" class="btn">read more</a>
+        </div>
+
+        <div class="box">
+            <img src="image/icon-4.png" alt="">
+            <h3>SASS</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
+            <a href="#" class="btn">read more</a>
+        </div>
+
+        <div class="box">
+            <img src="image/icon-5.png" alt="">
+            <h3>JQuery</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
+            <a href="#" class="btn">read more</a>
+        </div>
+
+        <div class="box">
+            <img src="image/icon-6.png" alt="">
+            <h3>React.js</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
+            <a href="#" class="btn">read more</a>
+        </div>
+
+    </div>
+
+</div>
+
 ### Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neivanny1&label=Profile%20views&color=0e75b6&style=flat" alt="neivanny1" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neivanny1" alt="neivanny1" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neivanny1&show_icons=true&locale=en&layout=compact" alt="neivanny1" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neivanny1&show_icons=true&locale=en" alt="neivanny1" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neivanny1&" alt="neivanny1" /></p>
+
