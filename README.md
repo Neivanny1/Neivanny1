@@ -53,58 +53,6 @@
 [![Excel](https://img.shields.io/badge/excel-%23000000.svg?style=for-the-badge&logo=excel&logoColor=%23217346)](https://products.office.com/en-us/excel)
 [![Power BI](https://img.shields.io/badge/powerbi-%23000000.svg?style=for-the-badge&logo=powerbi&logoColor=%23006D75)](https://powerbi.microsoft.com/)
 
-<div class="container">
-
-    <h1 class="heading">our services</h1>
-
-    <div class="box-container">
-
-        <div class="box">
-            <img src="image/icon-1.png" alt="">
-            <h3>HTML 5</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
-            <a href="#" class="btn">read more</a>
-        </div>
-
-        <div class="box">
-            <img src="image/icon-2.png" alt="">
-            <h3>CSS 3</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
-            <a href="#" class="btn">read more</a>
-        </div>
-
-        <div class="box">
-            <img src="image/icon-3.png" alt="">
-            <h3>JavaScript</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
-            <a href="#" class="btn">read more</a>
-        </div>
-
-        <div class="box">
-            <img src="image/icon-4.png" alt="">
-            <h3>SASS</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
-            <a href="#" class="btn">read more</a>
-        </div>
-
-        <div class="box">
-            <img src="image/icon-5.png" alt="">
-            <h3>JQuery</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
-            <a href="#" class="btn">read more</a>
-        </div>
-
-        <div class="box">
-            <img src="image/icon-6.png" alt="">
-            <h3>React.js</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, commodi?</p>
-            <a href="#" class="btn">read more</a>
-        </div>
-
-    </div>
-
-</div>
-
 ### Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neivanny1&label=Profile%20views&color=0e75b6&style=flat" alt="neivanny1" /> </p>
@@ -112,4 +60,31 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neivanny1&show_icons=true&locale=en&layout=compact" alt="neivanny1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neivanny1&show_icons=true&locale=en" alt="neivanny1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neivanny1&" alt="neivanny1" /></p>
+
+
+### My GitHub Profile Summary
+
+<table>
+  <tr>
+    <td style="width: 48%; margin: 5px; text-align: center;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neivanny1&theme=darcula" />
+    </td>
+    <td style="width: 48%; margin: 5px; text-align: center;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neivanny1&theme=darcula" />
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 48%; margin: 5px; text-align: center;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Neivanny1&theme=darcula" />
+    </td>
+    <td style="width: 48%; margin: 5px; text-align: center;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neivanny1&theme=darcula&utcOffset=8" />
+    </td>
+  </tr>
+    <tr>
+    <td colspan="2" style="width: 100%; text-align: center;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neivanny1&theme=darcula" />
+    </td>
+  </tr>
+</table>
 
