@@ -87,4 +87,7 @@
     </td>
   </tr>
 </table>
+<h1 style="text-align: center; font-size: 60px; color: purple;">THE HEART OF INTERNET</h1>
+
+![Alt Text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif)
 
