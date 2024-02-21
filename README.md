@@ -16,6 +16,7 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,7 +39,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue) 
+<h2 align="right">Favourite Movie</h2>
+ <img align="right"  src="https://drive.google.com/uc?id=1cvcBsa7GgCHfTgQ0Fh1fV4_Xt6rKfL-z" alt="Description of the embedded content">
 
 ### Security Tools
 [![Parrot OS](https://img.shields.io/badge/-Parrot-000000?style=for-the-badge&logo=parrot-os&logoColor=%23f59e0b&color=lightred)](https://www.parrotlinux.org/)
