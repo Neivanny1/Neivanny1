@@ -94,6 +94,6 @@
 
 ![Alt Text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif)
 
-<h1 style="text-align: center; font-size: 60px; color: purple;">Linux Systems File Structure</h1>
+<h1 style="text-align: center; font-size: 60px; color: purple;">Quick Tips Section</h1>
 
 ![Alt Text](https://github.com/Neivanny1/Neivanny1.github.io/blob/master/assets/linux.gif)
