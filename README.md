@@ -23,6 +23,7 @@
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
 ### Frameworks, Platforms and Libraries💻 🌐
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -49,6 +50,9 @@
 [![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=%23fe811a)](https://www.nmap.org/)
 [![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=%234285f4&color=blue)](https://wireshark.org/)
 [![Burp Suite](https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burp-suite&logoColor=%23FF0000&color=orange)](https://portswigger.net/burp/)
+### Scripting
+![Bash](https://img.shields.io/badge/Bash-%23323330.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-3670A0?style=for-the-badge&logo=powershell&logoColor=white)
 ### Visualisation
 [![Chart.js](https://img.shields.io/badge/chartjs-%23000000.svg?style=for-the-badge&logo=chartjs&logoColor=%234285F4)](https://chartjs.org/)
 [![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=%2392A1CF)](https://seaborn.pydata.org/)
