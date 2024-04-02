@@ -32,12 +32,10 @@
 
 ### Technologies and Tool ⚙️ 🖥
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&color=blue)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins&color=red)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&color=black)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=FCC624&color=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue)
