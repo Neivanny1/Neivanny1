@@ -40,7 +40,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue) 
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql&color=blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&color=green)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis&color=red)
+
 <h2 align="right">Favourite Movie</h2>
  <img align="right"  src="https://drive.google.com/uc?id=1cvcBsa7GgCHfTgQ0Fh1fV4_Xt6rKfL-z" alt="Description of the embedded content">
 
@@ -57,8 +61,6 @@
 [![Chart.js](https://img.shields.io/badge/chartjs-%23000000.svg?style=for-the-badge&logo=chartjs&logoColor=%234285F4)](https://chartjs.org/)
 [![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=%2392A1CF)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=%23DF0030)](https://matplotlib.org/)
-[![Excel](https://img.shields.io/badge/excel-%23000000.svg?style=for-the-badge&logo=excel&logoColor=%23217346)](https://products.office.com/en-us/excel)
-[![Power BI](https://img.shields.io/badge/powerbi-%23000000.svg?style=for-the-badge&logo=powerbi&logoColor=%23006D75)](https://powerbi.microsoft.com/)
 
 ### Stats
 
