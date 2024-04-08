@@ -24,13 +24,13 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-### Frameworks, Platforms and Libraries💻 🌐
+### Software Development Frameworks and Libraries💻 🌐
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### Technologies and Tool ⚙️ 🖥
+### Devops Tools and Frameworks ⚙️ 🖥
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&color=blue)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins&color=red)
@@ -45,8 +45,6 @@
 
 <h2 align="right">Favourite Movie Actors</h2>
  <img align="right"  src="https://drive.google.com/uc?id=1cvcBsa7GgCHfTgQ0Fh1fV4_Xt6rKfL-z" alt="Description of the embedded content">
-
-### Devops Tools
 
 ### Security Tools
 [![Parrot OS](https://img.shields.io/badge/-Parrot-000000?style=for-the-badge&logo=parrot-os&logoColor=%23f59e0b&color=lightred)](https://www.parrotlinux.org/)
