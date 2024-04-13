@@ -33,7 +33,8 @@
 ### Devops Tools and Frameworks ⚙️ 🖥
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&color=blue)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins&color=red)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins&color=color=black)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=for-the-badge&logo=prometheus&color=black)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&color=black)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=FCC624&color=black)
 
