@@ -2,7 +2,7 @@
 ### <h1 align="center">Hi 👋, I'm Eric Mwakazi</h1>
 <h3 align="center">A passionate DeveOps Engineer</h3>
 
-###  - 🌱 I’m currently learning **Python for data analysis and Data Visualization Tools**
+###  - 🌱 I’m currently learning **Django**
 
 ### - 💬 Ask me about **Python, JavaScript**<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="neivanny1" width="400">
 
