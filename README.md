@@ -1,6 +1,6 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsimplecoding.dev%2Fassets%2Fdevops.gif&f=1&nofb=1&ipt=5b6d2625a334d7b7a12686bfa606dc36bcd71080139c35191b2adf68f1cc124f&ipo=images)](https://rishavchanda.io)
 ### <h1 align="center">Hi 👋, I'm Eric Mwakazi</h1>
-<h3 align="center">A passionate Soft Ware Engineer</h3>
+<h3 align="center">A passionate SoftWare Engineer</h3>
 
 ###  - 🌱 I’m currently learning **Django**
 
@@ -20,7 +20,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
@@ -58,7 +57,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-3670A0?style=for-the-badge&logo=powershell&logoColor=white)
 ### Visualisation
 [![Chart.js](https://img.shields.io/badge/chartjs-%23000000.svg?style=for-the-badge&logo=chartjs&logoColor=%234285F4)](https://chartjs.org/)
-[![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=%2392A1CF)](https://seaborn.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=%23DF0030)](https://matplotlib.org/)
 
 ### Stats
