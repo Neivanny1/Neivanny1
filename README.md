@@ -1,5 +1,4 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsimplecoding.dev%2Fassets%2Fdevops.gif&f=1&nofb=1&ipt=5b6d2625a334d7b7a12686bfa606dc36bcd71080139c35191b2adf68f1cc124f&ipo=images)](https://rishavchanda.io)
-### Who am I ?
 ### <h1 align="center">Hi 👋, I'm Eric Mwakazi</h1>
 <h3 align="center">A passionate SoftWare Engineer</h3>
 
@@ -101,3 +100,5 @@
 <h1 style="text-align: center; font-size: 60px; color: purple;">Quick Tips Section</h1>
 
 ![Alt Text](https://github.com/Neivanny1/Neivanny1.github.io/blob/master/assets/linux.gif)
+
+
