@@ -1,12 +1,20 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsimplecoding.dev%2Fassets%2Fdevops.gif&f=1&nofb=1&ipt=5b6d2625a334d7b7a12686bfa606dc36bcd71080139c35191b2adf68f1cc124f&ipo=images)](https://rishavchanda.io)
-### <h1 align="center">Hi 👋, I'm Eric Mwakazi</h1>
-<h3 align="center">A passionate SoftWare Engineer</h3>
+### <h1 align="center">SOFTWARE ENGINEER</h1>
+###  - 🌱 **About**
+👋 Hi there! I'm Eric Mwakazi, a passionate backend developer with expertise in Python and Flask, specializing in building robust and scalable web applications and APIs.
 
-###  - 🌱 I’m currently learning **Django**
+💻 With a strong foundation in Python programming, I thrive on crafting clean, efficient code that powers seamless user experiences. My experience with Flask enables me to develop RESTful APIs and microservices that meet the needs of modern web applications.
 
-### - 💬 Ask me about **Python, JavaScript**<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="neivanny1" width="400">
+🌐 I bring a solid understanding of web development principles, including HTML, CSS, and JavaScript, and I'm adept at collaborating with frontend teams to deliver cohesive solutions. I'm also well-versed in database management, with experience in SQL and NoSQL databases, ensuring optimal performance and data integrity.
 
-### - 📫 How to reach me **nevileneivanny@gmail.com** <br>
+🛠️ Proficient in version control systems like Git, I'm comfortable working in Agile environments and thrive on solving complex problems collaboratively. Additionally, I have hands-on experience working with Docker and Jenkins, dockrizing applications and streamlining deployment processes.
+
+🚀 As a recent ALX software engineering graduate, I am eager to leverage my skills and experience in Python and Flask to contribute to innovative projects and drive impactful results. Let's connect and explore how we can work together to bring your ideas to life!
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="neivanny1" width="400">
+
+
+### - 📫 Reach me through email **nevileneivanny@gmail.com** <br>
 
 ### Connect With Me:
 [![Twitter: NeivannyN ](https://img.shields.io/twitter/follow/NeivannyN?style=for-the-badge&color=black)](https://twitter.com/NeivannyN)
