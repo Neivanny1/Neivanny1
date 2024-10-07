@@ -113,6 +113,10 @@
 
 <h1 style="text-align: center; font-size: 60px; color: purple;">Quick Tips Section</h1>
 
+
+![Alt Text](https://github.com/Neivanny1/Neivanny1.github.io/blob/master/assets/devsecops.gif)
+
+
 ![Alt Text](https://github.com/Neivanny1/Neivanny1.github.io/blob/master/assets/linux.gif)
 
 
