@@ -18,7 +18,7 @@
 
 ### Connect With Me:
 [![Twitter: NeivannyN ](https://img.shields.io/twitter/follow/NeivannyN?style=for-the-badge&color=black)](https://twitter.com/NeivannyN)
-[![Linkedin: Mwakazi](https://img.shields.io/badge/-Eric-blue?style=for-the-badge&logo=Linkedin&Color=black&link=[https://www.linkedin.com/in/Eric](https://www.linkedin.com/in/eric-mwakazi-650b70270)/)]([https://www.linkedin.com/in/eric](https://www.linkedin.com/in/eric-mwakazi-650b70270)/)
+[![Linkedin: Mwakazi](https://img.shields.io/badge/-Eric-blue?style=for-the-badge&logo=Linkedin&Color=black)](https://www.linkedin.com/in/eric-mwakazi/)
 [![GitHub Neivanny1 ](https://img.shields.io/github/followers/neivanny1?label=follow&style=for-the-badge&color=black)](https://github.com/neivanny1)
 ### Languages 💻 🌐
 
