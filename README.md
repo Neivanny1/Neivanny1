@@ -36,14 +36,21 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Angular Material](https://img.shields.io/badge/angular--material-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ### Devops Tools and Frameworks ⚙️ 🖥
 
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&color=blue)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins&color=color=black)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&color=bl)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins&color=black)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=for-the-badge&logo=prometheus&color=black)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&color=black)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=FCC624&color=black)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=for-the-badge&logo=grafana&color=black)
+![WireGuard](https://img.shields.io/badge/-WireGuard-333333?style=for-the-badge&logo=wireguard&color=black)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes&color=black)
+
 
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&color=blue)
@@ -51,9 +58,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&color=green)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis&color=red)
 
-<h2 align="right">Favourite Movie Actors</h2>
+<!-- <h2 align="right">Favourite Movie Actors</h2>
  <img align="right"  src="https://drive.google.com/uc?id=1cvcBsa7GgCHfTgQ0Fh1fV4_Xt6rKfL-z" alt="Description of the embedded content">
-
+-->
 ### Security Tools
 [![Parrot OS](https://img.shields.io/badge/-Parrot-000000?style=for-the-badge&logo=parrot-os&logoColor=%23f59e0b&color=lightred)](https://www.parrotlinux.org/)
 [![Kali Linux](https://img.shields.io/badge/-Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=%23df0030&color=purple)](https://www.kali.org/)
@@ -68,10 +75,11 @@
 [![Matplotlib](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=%23DF0030)](https://matplotlib.org/)
 
 ### Virtualization
-[![Proxmox](https://img.shields.io/badge/chartjs-%23000000.svg?style=for-the-badge&logo=chartjs&logoColor=%234285F4)](https://chartjs.org/)
-[![VirtualBox](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=%23DF0030)](https://matplotlib.org/)
-[![VmWare](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=%23DF0030)](https://matplotlib.org/)
-[![QEMU](https://img.shields.io/badge/matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=%23DF0030)](https://matplotlib.org/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-%23000000.svg?style=for-the-badge&logo=proxmox&logoColor=%23E57000)](https://proxmox.com/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-%23000000.svg?style=for-the-badge&logo=virtualbox&logoColor=%23FFFFFF)](https://www.virtualbox.org/)
+[![VMware](https://img.shields.io/badge/VMware-%23000000.svg?style=for-the-badge&logo=vmware&logoColor=%23139FBA)](https://www.vmware.com/)
+[![QEMU](https://img.shields.io/badge/QEMU-%23000000.svg?style=for-the-badge&logo=qemu&logoColor=%23FF6600)](https://www.qemu.org/)
+
 
 ### Stats
 
@@ -79,7 +87,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neivanny1" alt="neivanny1" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neivanny1&show_icons=true&locale=en&layout=compact" alt="neivanny1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neivanny1&show_icons=true&locale=en" alt="neivanny1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neivanny1&" alt="neivanny1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neivanny1&" alt="neivanny1" /></p>
 
 
 ### My GitHub Profile Summary
