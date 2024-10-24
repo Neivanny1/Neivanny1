@@ -87,8 +87,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neivanny1" alt="neivanny1" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neivanny1&show_icons=true&locale=en&layout=compact" alt="neivanny1" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neivanny1&show_icons=true&locale=en" alt="neivanny1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neivanny1&" alt="neivanny1" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neivanny1&" alt="neivanny1" /></p> -->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=neivanny1&theme=dark)](https://git.io/streak-stats)
 
 ### My GitHub Profile Summary
 
