@@ -89,7 +89,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neivanny1&show_icons=true&locale=en" alt="neivanny1" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neivanny1&" alt="neivanny1" /></p> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Neivanny1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neivanny1)](https://git.io/streak-stats)
+
 
 ### My GitHub Profile Summary
 
